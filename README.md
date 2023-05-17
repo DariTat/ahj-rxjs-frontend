@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vxbqwvl4n47l1gnb?svg=true)](https://ci.appveyor.com/project/DariTat/ahj-rxjs-frontend)
+
+[GitHubPage](https://daritat.github.io/ahj-rxjs-frontend/)
+
 # Домашнее задание к занятию "11. RxJS"
 
 Правила сдачи задания:
